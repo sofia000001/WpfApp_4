@@ -59,6 +59,7 @@
 
 <img width="579" height="252" alt="01" src="https://github.com/user-attachments/assets/8d404e1c-8642-421b-8cfb-d1345ea010ae" />
 
+---
 
 ### Задача 14. Инициалы и фамилия (И.О. Фамилия)
 
@@ -92,6 +93,7 @@
 
 <img width="582" height="245" alt="02" src="https://github.com/user-attachments/assets/e6d1d0f4-f8b1-45bb-a13b-48f510cc81d8" />
 
+---
 
 ### Задача 6. Дата MM/DD/YYYY с учётом високосных лет
 
